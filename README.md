@@ -3,7 +3,7 @@
 
 If you're one of geezers like me that just upgraded LibreOffice to version 7.5 and gasped at the new really colourful file extension icons, and you grumpily want your old icons back - you're in the right place.
 
-As in, yesterday your .xls icon was a well-known ![old style] and today is ![eye-hurting](https://s10.aconvert.com/convert/p3r68-cdx67/a9jr0-f0q9p-001.ico), your directory with hundreds of spreadsheet files looks like a sea of green and your eyes are hurting.
+As in, yesterday your .xls icon was a well-known ![old style](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/b24d9b7b-8fdf-4fda-9efe-06122c25116a) and today is ![eye-hurting](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/2157d05f-4ace-47aa-b366-d75bdd5b289b), your directory with hundreds of spreadsheet files looks like a sea of green and your eyes are hurting.
 
 With the help of Mike Kaganski (at [ask.libreoffice.org](https://ask.libreoffice.org/t/new-installation-of-libreoffice-installed-horrible-file-extension-icons/91710)) I was able to get hold of the old icons and created this little help webpage for you.
 
