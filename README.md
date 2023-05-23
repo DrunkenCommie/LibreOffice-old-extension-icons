@@ -15,7 +15,7 @@ To get your old icons back, download and unzip the icons-libreoffice-7.4-style.z
 
 If you're using Windows 11 (like I am), unfortunately there seems to be no easy way to tell the system to use these old icons. What worked for me was the [“FileTypesMan”](https://www.nirsoft.net/utils/file_types_manager.html) application (free, from NirSoft, verfied it with VirusTotal but please do your own due dilligence as well). When you start the program, you need to find the file extension of interest (.xls, .doc, etc.), double click on it, and choose "Default Icon" - and point it to the icon of choice. _Voila_.
 
-![screenshot of modifying .123 extension](https://github.com/DrunkenCommie/LibreOffice-old-extension-icons/assets/41784423/b7d5b2ff-8eb4-42ce-aecf-62192a5fbe82)
+![screenshot of modifying .123 extension](https://github.com/DrunkenCommie/LibreOffice-old-extension-icons/assets/41784423/7f2abcd7-dbe2-41de-a0f3-c5a01f328815)
 
 
 
