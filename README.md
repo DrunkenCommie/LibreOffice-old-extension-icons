@@ -1,14 +1,15 @@
 # Libre-Office-old-extension-icons
-*Description: old style of filesystem extension (.xls,.doc, .ppt etc) icons for LibreOffice*
+*Description: old style of filesystem extension (.xls,.doc, .ppt etc) icons from LibreOffice*
 
 If you're one of geezers like me that just upgraded LibreOffice to version 7.5 and gasped at the new really colourful file extension icons, and you grumpily want your old icons back - you're in the right place.
 
 As in, yesterday your .xls icon was a well-known ![old style](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/5f02b097-f27c-4bc6-a9b2-27a1ae0cc401)
- and today is ![eye-hurting](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/0ef3a08c-d9dd-4000-91a0-0b1647618c77), your directory with hundreds of spreadsheet files looks like a sea of green and your eyes are hurting.
+ and somehow today it's ![eye-hurting](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/0ef3a08c-d9dd-4000-91a0-0b1647618c77), your directory with hundreds of spreadsheet files looks like a sea of green and your eyes are hurting (with or without glasses).
 
-_PS. I promise the ZIP file has these icons non-blurred._
+_PS. I promise the ZIP file has these icons non-blurred. I just don't know how to post them here properly._
 
-With the help of Mike Kaganski (at [ask.libreoffice.org](https://ask.libreoffice.org/t/new-installation-of-libreoffice-installed-horrible-file-extension-icons/91710)) I was able to get hold of the old icons and created this little help webpage for you.
+
+With the help of Mike Kaganski (at [ask.libreoffice.org](https://ask.libreoffice.org/t/new-installation-of-libreoffice-installed-horrible-file-extension-icons/91710)) I was able to get hold of the old icons (which seem to have been used until late 2022, before LibreOffice 7.5) and created this little help webpage for you.
 
 To get your old icons back, download and unzip the icons-libreoffice-7.4-style.zip file, and tell your Operating System to use these instead. Just for the kicks, I've also uploaded the new (7.5) style icons - so you can easily revert if you need to.
 
