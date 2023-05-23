@@ -3,8 +3,8 @@
 
 If you're one of geezers like me that just upgraded LibreOffice to version 7.5 and gasped at the new really colourful file extension icons, and you grumpily want your old icons back - you're in the right place.
 
-As in, yesterday your .xls icon was a well-known (_plain_, even) ![old style](https://github.com/DrunkenCommie/LibreOffice-old-extension-icons/assets/41784423/5f02b097-f27c-4bc6-a9b2-27a1ae0cc401)
- and somehow today it's (new style, _solid colour_) ![eye-hurting new style](https://github.com/DrunkenCommie/LibreOffice-old-extension-icons/assets/41784423/0ef3a08c-d9dd-4000-91a0-0b1647618c77), your directory with hundreds of spreadsheet files looks like a sea of green and your eyes are hurting (with or without glasses).
+As in, yesterday your .xls icon was a well-known (_plain_, even) ![old style](https://github.com/DrunkenCommie/LibreOffice-old-extension-icons/assets/41784423/fa554c2c-9ab1-4a5d-9e36-d90b4a4545a3)
+ and somehow today it's (new style, _solid colour_) ![eye-hurting new style](https://github.com/DrunkenCommie/LibreOffice-old-extension-icons/assets/41784423/b21e45c5-fd2e-433e-b64e-08febac5f836), your directory with hundreds of spreadsheet files looks like a sea of green and your eyes are hurting (with or without glasses).
 
 > I promise the ZIP file has these icons non-blurred. I just don't know how to post them here properly.
 
