@@ -3,7 +3,7 @@
 
 If you're one of geezers like me that just upgraded LibreOffice to version 7.5 and gasped at the new file extension icons and you want your old icons back - you're in the right place.
 
-As in, yesterday your .xls icon was ![old style](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/23af9e28-0915-4f9c-b2bb-9d136b5e29e5) and tomorrow is ![eye-hurting](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/60f5ac7f-5db3-4738-8318-19a0d4253d8d)
+As in, yesterday your .xls icon was ![old style](https://s10.aconvert.com/convert/p3r68-cdx67/am6ty-ct5td-001.ico) and today is ![eye-hurting](https://github.com/DrunkenCommie/Libre-Office-old-extension-icons/assets/41784423/60f5ac7f-5db3-4738-8318-19a0d4253d8d)
 
 
 
