@@ -1,4 +1,4 @@
-# Libre-Office-old-extension-icons
+# LibreOffice old extension icons
 *Description: old style of filesystem extension (.xls,.doc, .ppt etc) icons from LibreOffice*
 
 If you're one of geezers like me that just upgraded LibreOffice to version 7.5 and gasped at the new really colourful file extension icons, and you grumpily want your old icons back - you're in the right place.
